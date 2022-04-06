@@ -33,6 +33,7 @@ Another option for running this blockchain program is to use Docker.  Follow the
 $ docker build -t blockchain .
 ```
 
+-
 3. Run the container
 
 ```
